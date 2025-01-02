@@ -1,0 +1,128 @@
+/* Default styling (desktop/larger screens) */
+body {
+    background-color: black;
+}
+
+/* Tablets (768px to 1024px) */
+@media (max-width: 1024px) and (min-width: 768px) {
+    body {
+        background-color: rgb(134, 33, 33);
+    }
+}
+
+/* Phones (up to 767px) */
+@media (max-width: 767px) {
+    body {
+        background-color: rgb(140, 0, 0);
+    }
+}
+
+/* Larger desktops (over 1200px) */
+@media (min-width: 1200px) {
+    body {
+        background-color: rgb(81, 150, 196);
+    }
+}
+
+div .cherynobyl {
+    width: 350px;
+    height: 350px;
+    
+    
+    
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+div .tenet {
+    width: 350px;
+    height: 350px;
+    
+    
+}
+.cherynobylDiv {
+    display: inline;
+    margin-left: 60px;
+    margin-right: 30px;
+    
+
+}
+.tenetDiv {
+    display: inline;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+div .dangal {
+    width: 350px;
+    height: 350px;
+}
+.dangalDiv {
+    display: inline;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+div .thelights {
+    width: 350px;
+    height: 350px;
+}
+.lightsDiv {
+    display: inline;
+    margin-right: 40px;
+    margin-left: 30px;
+}
+div .harrypotter {
+    width: 350px;
+    height: 350px;
+    margin-top: 20px;
+}
+.harrypotterDiv {
+    display: inline;
+    margin-left: 60px;
+    margin-right: 30px;
+    
+   
+}
+div .Avatar {
+    width: 350px;
+    height: 350px;
+    margin-top: 20px;
+}
+.AvatarDiv {
+    display: inline;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+div .Bahubali {
+    width: 350px;
+    height: 350px;
+    margin-top: 20px;
+}
+.BahubaliDiv {
+    display: inline;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+div .three {
+    width: 350px;
+    height: 350px;
+    margin-top: 20px;
+}
+.threeDiv {
+    display: inline;
+    margin-right: 40px;
+    margin-left: 30px;
+}
+div .footer {
+    text-align: center;
+    color: beige;
+}
+.footerDiv {
+    margin-top: 30px;
+    width: 50px;
+    height: 50px;
+    margin-left: 780px;
+    margin-right: 500px;
+}
